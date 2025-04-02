@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+transformers
+torch
+googletrans==4.0.0-rc1
+python-multipart
+streamlit
+requests
+streamlit-webrtc
+av
+aiohttp
+numpy
+
